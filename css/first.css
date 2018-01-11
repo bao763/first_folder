@@ -4,4 +4,8 @@ h1{
 
 nav{
   background-color: #3498db;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 5px;
 }
